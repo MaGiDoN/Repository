@@ -1,0 +1,388 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.darc-theme{
+color: #f2f2f2;
+  background-color: #080208;
+  background-image: url("img/hero-bg.jpg");	
+}
+
+
+.darc-theme .container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.darc-theme .page-header {
+  margin: 0 0 180px;
+  padding: 32px 0 32px;
+}
+
+.darc-theme .page-header .container,
+.darc-theme .page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}
+
+.darc-theme .page-header a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.darc-theme .header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email.svg");
+}
+
+.darc-theme .header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone.svg");
+}
+
+.darc-theme .hero-image {
+  margin-bottom: 480px;
+}
+
+.darc-theme .hero-image .container {
+  max-width: 1408px;
+  text-align: center;
+}
+
+.darc-theme .heading {
+  margin: 0 0 24px;
+  font-size: 80px;
+  line-height: 96px;
+}
+
+.darc-theme .hero-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.darc-theme .intro {
+  margin: 0 0 120px;
+}
+
+.darc-theme .subheading {
+  margin: 0 0 56px;
+  font-size: 56px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.darc-theme .user-image {
+  margin: 0 0 32px;
+  text-align: center;
+}
+
+.darc-theme .intro h3,
+.darc-theme .portfolio h3 {
+  margin: 0 0 12px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.darc-theme .intro p {
+  margin: 0 0 32px;
+}
+
+.darc-theme .skills-list {
+  margin: 0;
+  padding: 0;
+}
+
+.darc-theme .skills-list dt {
+  padding-left: 32px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.darc-theme .skill-html {
+  background-image: url("img/icon-html.svg");
+}
+
+.darc-theme .skill-css {
+  background-image: url("img/icon-css.svg");
+}
+
+.darc-theme .level {
+  margin: 4px 0 16px;
+  padding: 0;
+  height: 14px;
+  font-size: 0;
+  background-color: #080208;
+  border: 1px solid #712073;
+  border-radius: 8px;
+}
+
+.darc-theme .level div {
+  margin: 1px;
+  height: 12px;
+  background-color: #fea18d;
+  border-radius: 6px;
+}
+
+.darc-theme .portfolio {
+  margin: 0 0 120px;
+}
+
+.darc-theme .projects {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.darc-theme .projects li {
+  margin: 0 0 80px;
+}
+
+.darc-theme .project-image {
+  margin: 0 0 24px;
+  text-align: center;
+}
+
+.darc-theme .projects p {
+  margin: 0 0 24px;
+}
+
+.darc-theme .theme-button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #712073;
+  color: #ffffff;
+}
+
+.darc-theme .page-footer {
+  padding: 40px 0;
+  background-color: #260c26;
+}
+
+.darc-theme .page-footer a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.darc-theme .footer-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email.svg");
+}
+
+.darc-theme .footer-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone.svg");
+}
+
+                                          /*Светлая тема*/
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.light-theme {
+color: #222222;
+  background-color: #f2f4f6;
+  background-image: url("img/lhero-bg.jpg");	
+}
+.light-theme .container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.light-theme .page-header {
+  margin: 0 0 160px;
+  padding: 32px 0 32px;
+}
+
+.light-theme .page-header .container,
+.light-theme .page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}
+
+.light-theme .page-header a {
+  margin-left: 56px;
+  color: #288be6;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.light-theme .header-email {
+  padding-left: 30px;
+  background-image: url("img/licon-email-header.svg");
+}
+
+.light-theme .header-phone {
+  padding-left: 25px;
+  background-image: url("img/licon-phone-header.svg");
+}
+
+.light-theme .hero-image {
+  margin-bottom: 620px;
+}
+
+.light-theme .hero-image .container {
+  max-width: 1408px;
+  text-align: center;
+}
+
+.light-theme .heading {
+  margin: 0 0 16px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 88px;
+  line-height: 96px;
+  font-weight: 400;
+}
+
+.light-theme .hero-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.light-theme .intro {
+  margin: 0 0 120px;
+}
+
+.light-theme .subheading {
+  margin: 0 0 56px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.light-theme .user-image {
+  margin: 0 0 32px;
+  text-align: center;
+}
+
+.light-theme .intro h3,
+.light-theme .portfolio h3 {
+  margin: 0 0 12px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.light-theme .intro p {
+  margin: 0 0 32px;
+}
+
+.light-theme .skills-list {
+  margin: 0;
+  padding: 0;
+}
+
+.light-theme .skills-list dt {
+  padding-left: 32px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.light-theme .skill-html {
+  background-image: url("img/licon-html.svg");
+}
+
+.light-theme .skill-css {
+  background-image: url("img/licon-css.svg");
+}
+
+.light-theme .level {
+  margin: 4px 0 16px;
+  padding: 0;
+  height: 14px;
+  font-size: 0;
+  background-color: #ffffff;
+  border: 1px solid #86c3fa;
+  border-radius: 8px;
+}
+
+.light-theme .level div {
+  margin: 1px;
+  height: 12px;
+  background-color: #288be6;
+  border-radius: 6px;
+}
+
+.light-theme .portfolio {
+  margin: 0 0 120px;
+}
+
+.light-theme .projects {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.light-theme .projects li {
+  margin: 0 0 80px;
+}
+
+.light-theme .project-image {
+  margin: 0 0 24px;
+  text-align: center;
+}
+
+.light-theme .projects p {
+  margin: 0 0 24px;
+}
+
+.light-theme .theme-button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #288be6;
+  color: #ffffff;
+}
+
+.light-theme .page-footer {
+  padding: 40px 0;
+  background-color: #00417d;
+}
+
+.light-theme .page-footer a {
+  margin-left: 56px;
+  color: #ffffff;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.light-theme .footer-email {
+  padding-left: 30px;
+  background-image: url("img/licon-email-footer.svg");
+}
+
+.light-theme .footer-phone {
+  padding-left: 25px;
+  background-image: url("img/licon-phone-footer.svg");
+}
